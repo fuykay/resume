@@ -219,7 +219,7 @@ body{
 	left: 0;
 	width: 10px;
 	height: 10px;
-	background: #ad0fdd;
+	background: #000000;
 	border-radius: 50%;
 }
 
@@ -230,5 +230,5 @@ body{
 	left: 4px;
 	width: 2px;
 	height: 90%;
-	background: #ad0fdd;
+	background: #000000;
 }
